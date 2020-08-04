@@ -4,7 +4,7 @@ Happy Coding!!
 
 
 
-![bits and coins](https://github.com/daimazon/bitsandcoins/tree/master/public/Assets/bitsandcoins.PNG?raw=true)
+![bits and coins](https://github.com/daimazon/bitsandcoins/tree/master/public/Assets/Bitsandcoins.png?raw=true)
 
 ## Available Scripts
 
