@@ -2,6 +2,12 @@ This is a web app comprising of a Real-time cryptocurrency visualisations using 
 The stats of the application will be live updated and the information will be shared on the dashboard.
 Happy Coding!!
 
+<img
+src="bitsandcoins.jpg\src\Assets"
+raw=true
+alt=“BitsandCoins”
+style=“margin-right: 10px;”
+/>
 ## Available Scripts
 
 In the project directory, you can run:
