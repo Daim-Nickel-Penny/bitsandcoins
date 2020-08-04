@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web app comprising of a Real-time cryptocurrency visualisations using React and ChartJS.
+The stats of the application will be live updated and the information will be shared on the dashboard.
+Happy Coding!!
 
 ## Available Scripts
 
