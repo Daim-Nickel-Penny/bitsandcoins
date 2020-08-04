@@ -2,7 +2,9 @@ This is a web app comprising of a Real-time cryptocurrency visualisations using 
 The stats of the application will be live updated and the information will be shared on the dashboard.
 Happy Coding!!
 
-![Bits and Coins](bitsandcoins\public\Assets\bitsandcoins.PNG?raw=true "Title")
+
+
+![bits and coins](https://github.com/daimazon/bitsandcoins/tree/master/public/Assets/bitsandcoins.PNG?raw=true)
 
 ## Available Scripts
 
