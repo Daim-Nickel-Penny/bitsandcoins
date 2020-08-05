@@ -1,6 +1,9 @@
 This is a web app comprising of a Real-time cryptocurrency visualisations using React and ChartJS.
 The stats of the application will be live updated and the information will be shared on the dashboard.
+The data is regularly updated. One can monitor the graph and get the value.
+This data is purely intended for educational purpose and as a practice project for myself.
 Happy Coding!!
+
 
 
 
